@@ -1,0 +1,37 @@
+#shell
+Bash Beautify
+
+#csv
+mechatroner.rainbow-csv
+
+
+#markdown
+yzhang.markdown-all-in-one
+shd101wyy.markdown-preview-enhanced
+#画像の貼り付け
+mushan.vscode-paste-image
+#markdown lint
+davidanson.vscode-markdownlint
+
+
+#共通
+# コード内コメント強調
+aaron-bond.better-comments
+
+#indent 強調
+oderwat.indent-rainbow
+
+#カッコ強調
+CoenraadS.bracket-pair-colorizer-2
+
+#コードフォーマッター
+esbenp.prettier-vscode
+
+#日本語パック
+MS-CEINTL.vscode-language-pack-ja
+
+# icon
+vscode-icons-team.vscode-icons
+
+#Git
+donjayamanne.githistory
