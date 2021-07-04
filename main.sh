@@ -16,7 +16,8 @@ do
     echo $line | grep -v '^#.*' > /dev/null
     if [ $? -eq 0 ];then
         echo $line
-        # code --install-extension $var
+        code --install-extension $line --force
+        echo "========"
     fi
 done < $CONFIG_FILE_PATH
 
