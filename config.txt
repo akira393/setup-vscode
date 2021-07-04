@@ -2,16 +2,16 @@
 Bash Beautify
 
 #csv
-mechatroner.rainbow-csv
+#mechatroner.rainbow-csv
 
 
 #markdown
-yzhang.markdown-all-in-one
-shd101wyy.markdown-preview-enhanced
+#yzhang.markdown-all-in-one
+#shd101wyy.markdown-preview-enhanced
 #画像の貼り付け
-mushan.vscode-paste-image
+#mushan.vscode-paste-image
 #markdown lint
-davidanson.vscode-markdownlint
+#davidanson.vscode-markdownlint
 
 
 #共通
@@ -35,3 +35,7 @@ vscode-icons-team.vscode-icons
 
 #Git
 donjayamanne.githistory
+
+#remote ssh関連
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-containers
